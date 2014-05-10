@@ -152,7 +152,7 @@ blockquote p {
   margin-top: 20px;
 }
 .navbar .nav > li > a {
-  color: #333;
+  color: #187793;
   padding: 10px 10px 11px;
   text-shadow: none;
 }
@@ -299,10 +299,10 @@ blockquote p {
 /* $FOOTER  */
 /* ######## */
 footer {
-  color: #BBB;
+  color: #ffffff;
   margin-top: 25px;
   padding-top: 10px;
-  background: #555;
+  background: #187793;
 }
 footer p {
   padding-bottom: 0;
@@ -1123,7 +1123,8 @@ blockquote p {
   margin-bottom: 5px;
   padding: 5px 10px;
   border: none;
-  background: #111;
+  background: #187793;
+  width: 150px;
   color: #fff;
 }
 
