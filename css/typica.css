@@ -28,6 +28,22 @@
 * $PLUGINS - styles provided with plugins
 * $QUERIES - Media responsive queries.
 */
+
+/* Horizontal Scrolling in Portfolio */
+ul.inline {
+  list-style:none; 
+  display:block;
+  white-space:nowrap;
+}
+li.inline {
+  display:inline;
+}
+img.inline {
+  height: 700px;
+  width: auto;
+}
+
+
 /* ##########  */
 /*   $GLOBAL   */
 /* ##########  */
